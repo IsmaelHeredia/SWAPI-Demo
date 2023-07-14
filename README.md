@@ -75,7 +75,7 @@ Method : POST
 
 http://localhost:3000/api/aumentarCantidadNave
 
-A number is added to the current amount of the vehicle
+A number is added to the current amount of the spaceship
 
 Parameters :
 
@@ -89,7 +89,7 @@ Method : POST
 
 http://localhost:3000/api/disminuirCantidadNave
 
-A number is subtracted from the current amount of the vehicle
+A number is subtracted from the current amount of the spaceship
 
 Parameters :
 
